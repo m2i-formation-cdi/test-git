@@ -1,0 +1,3 @@
+host=mabase.moi.com
+user=root
+pwd=123
