@@ -1,1 +1,2 @@
 Styles pour la page d'accueil
+correction de bug
